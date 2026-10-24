@@ -1,7 +1,7 @@
 name: orbitorbitoops
 description: "Orbit Orbit Oops - orbit around planets, don't crash"
 publish_to: 'none'
-version: 1.0.0+2
+version: 1.0.0+3
 
 environment:
   sdk: ^3.13.5
